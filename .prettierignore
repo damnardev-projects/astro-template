@@ -1,0 +1,14 @@
+dist/
+.astro/
+node_modules/
+
+# Legacy static site files
+index.html
+demo.html
+main.js
+main.css
+package-lock.json
+README.md
+.github/
+.gitignore
+.prettierignore
